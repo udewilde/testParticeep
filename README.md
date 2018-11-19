@@ -7,4 +7,4 @@ Created with create-react-app for boilerplate.
 
 To install the dependencies, run `npm i`.
 
-To test the project, run `nom start`.
+To test the project, run `npm start`.
